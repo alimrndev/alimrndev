@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimrndev
 - 👀 I’m interested in SOFTWARE ENGINEER BACKEND
-- 🌱 I’m currently learning Python, Machine Learning, API, Node.js, Flask, React.js
+- 🌱 I’m currently learning Python, Flask, Django, Machine Learning, API, Node.js, React.js
 - 📫 How to reach me muhammad.ali.imron.dev@gmail.com
 
 <!---
