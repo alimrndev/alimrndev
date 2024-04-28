@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Ali Imron, S.Kom. (Call me Ali)
-- 👀 I’m interested in SOFTWARE ENGINEER BACKEND
+- 👀 I’m interested in SOFTWARE ENGINEER FULLSTACK
 - 🌱 I’m currently learning Python, Flask, Django, Machine Learning, API, Node.js, React.js
 - 📫 How to reach me www.linkedin.com/in/muhammad-ali-imron-dev
 
